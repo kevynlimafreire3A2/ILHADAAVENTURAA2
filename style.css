@@ -1,7 +1,7 @@
 body {
     background-color: #FF9933;
     color: #8B5D00;
-    font-family: "Nunito Sans", sans-serif;
+    font-family: "Nunito Sans", system-ui;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -12,7 +12,7 @@ body {
 button {
     background-color: #FF9933;
     color: #8B5D00;
-    font-family: "Nunito Sans", sans-serif;
+    font-family: "Nunito Sans", system-ui;
 }
 
 .passo {
